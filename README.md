@@ -1,1 +1,1 @@
-# AcademicWritingHomework
+This is a Jupyter Notebook file in which data has been web scraped and analyzed by means of NLTK.
